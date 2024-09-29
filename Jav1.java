@@ -43,5 +43,12 @@ public class Jav1 {
 
                System.out.println(myDouble);   // Outputs 9.78
                System.out.println(myInt);      // Outputs 9
+
+               //Operators
+
+               //Almost same as python but the logical operators are different
+               // and --> &&
+               // or --> ||
+               // not --> !
     }
 }
